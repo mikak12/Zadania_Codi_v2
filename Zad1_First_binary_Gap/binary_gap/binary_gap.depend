@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618003729 source:f:\codility\first_binary_gap\binary_gap\main.c
+	<stdio.h>
+	<stdlib.h>
+
